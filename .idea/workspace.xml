@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="407f23cc-9b55-493e-8acc-9474f130cccd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2BQUca2GPrybYSpft7AyNK9BFKQ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hudispark_v10\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Hudi_Spark">
+    <configuration name="DayWeekTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="DayWeekTest" />
+      <module name="hudispark_v10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hudi_Spark" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Hudi_Spark" />
+      <module name="hudispark_v10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="hudispark_v10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test5" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test5" />
+      <module name="hudispark_v10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[Spark on SQL] SparkUtils" type="ArisOnSparkConfiguration" factoryName="Aris On Spark" temporary="true" nameIsGenerated="true">
+      <module name="hudispark_v10" />
+      <spark-job-configuration>
+        <local-run>
+          <spark-local-run-configurable-model>
+            <is-parallel-execution>false</is-parallel-execution>
+            <is-pass-parent-envs>true</is-pass-parent-envs>
+            <working-directory>file://$PROJECT_DIR$</working-directory>
+            <envs>
+              <map>
+                <envs key="HADOOP_HOME" value="E:\hadoop-2.5.1\hadoop-2.5.1" />
+              </map>
+            </envs>
+            <main-class>SparkUtils</main-class>
+            <data-root>file://$PROJECT_DIR$/data</data-root>
+          </spark-local-run-configurable-model>
+        </local-run>
+        <focused-tab-index>0</focused-tab-index>
+        <spark_submission artifact_name="" cluster_name="" file_path="" is_local_artifact="false" job_name="" local_artifact_path="" classname="SparkUtils">
+          <cmd_line_args />
+          <jobConfigs />
+          <ref_files />
+          <ref_jars />
+          <ssh_cert auth_type="UsePassword" private_key_path="" user="sshuser" remote_debug_enabled="false" />
+          <job_upload_storage />
+        </spark_submission>
+      </spark-job-configuration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hudi_Spark" />
+        <item itemvalue="Application.DayWeekTest" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.test5" />
+        <item itemvalue="Apache Spark on SQL Server Big Data Cluster.[Spark on SQL] SparkUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="407f23cc-9b55-493e-8acc-9474f130cccd" name="Default Changelist" comment="" />
+      <created>1656837883101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656837883101</updated>
+      <workItem from="1656837887410" duration="1630000" />
+      <workItem from="1656927377635" duration="2395000" />
+      <workItem from="1657866225852" duration="22447000" />
+      <workItem from="1658050748074" duration="22715000" />
+      <workItem from="1658993176826" duration="574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
